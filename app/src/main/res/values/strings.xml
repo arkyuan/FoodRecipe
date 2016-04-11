@@ -1,0 +1,83 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">FoodRecipe</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">food recipe search</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="clean_search_history">clean search history</string>
+    <string name="dialog_clean_history">Clean Search History?</string>
+    <string name="clean">Clean</string>
+    <string name="cancel">Cancel</string>
+    <string name="search_his_deleted">Search History Deleted</string>
+    <string name="a11y_recipe_title">Title:  <xliff:g id="recipe_title">%1$s</xliff:g></string>
+    <string name="a11y_source_title">source name: <xliff:g id="source_title">%1$s</xliff:g></string>
+    <string name="empty_food_list">No Food Recipe Information Available, please start a new search</string>
+    <string name="pref_show_favorite_label">Show Only Favorite</string>
+    <string name="pref_show_favorite_key">show_favorite</string>
+    <string name="pref_show_favorite_false">Not Enabled</string>
+    <string name="pref_show_favorite_true">Enabled</string>
+    <string name="pref_show_favorite_default">false</string>
+
+    <!-- For Shared Element Transitions -->
+    <string name="detail_icon_transition_name" translatable="false">TN_DetailIcon</string>
+    <string name="action_share">share</string>
+
+    <string name="a11y_food_icon">Food Recipe Icon: <xliff:g id="condition">%1$s</xliff:g></string>
+    <string name="a11y_food">Food Recipe: <xliff:g id="condition">%1$s</xliff:g></string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="selection_position">position</string>
+    <string name="content_desc_favorite">Favorite</string>
+    <string name="favorite_value">FavoriteValue</string>
+
+    <string name="a11y_serving">Ingredients for <xliff:g id="condition">%1$s</xliff:g> servings</string>
+
+    <string name="a11y_fat_kcal">Calories from Fat <xliff:g id="condition">%1$.1f</xliff:g><xliff:g id="condition2">%2$s</xliff:g></string>
+    <string name="a11y_k">Potassium <xliff:g id="condition">%1$.1f</xliff:g><xliff:g id="condition2">%2$s</xliff:g></string>
+    <string name="a11y_fasat">Saturated Fat <xliff:g id="condition">%1$.1f</xliff:g><xliff:g id="condition2">%2$s</xliff:g></string>
+    <string name="a11y_fe">Iron</string>
+    <string name="a11y_sugar">Sugars <xliff:g id="condition">%1$.1f</xliff:g><xliff:g id="condition2">%2$s</xliff:g></string>
+    <string name="a11y_fibtg">Dietary Fiber <xliff:g id="condition">%1$.1f</xliff:g><xliff:g id="condition2">%2$s</xliff:g></string>
+    <string name="a11y_procnt">Protein <xliff:g id="condition">%1$.1f</xliff:g><xliff:g id="condition2">%2$s</xliff:g></string>
+    <string name="a11y_chocdf">Total Carbohydrate <xliff:g id="condition">%1$.1f</xliff:g><xliff:g id="condition2">%2$s</xliff:g></string>
+    <string name="a11y_ca">Calcium</string>
+    <string name="a11y_vita_iu">Vitamin A</string>
+    <string name="a11y_enerc_kcal">Calories <xliff:g id="condition">%1$.1f</xliff:g><xliff:g id="condition2">%2$s</xliff:g></string>
+    <string name="a11y_vitc">Vitamin C</string>
+    <string name="a11y_fat">Total Fat <xliff:g id="condition">%1$.1f</xliff:g><xliff:g id="condition2">%2$s</xliff:g></string>
+    <string name="a11y_na">Sodium <xliff:g id="condition">%1$.1f</xliff:g><xliff:g id="condition2">%2$s</xliff:g></string>
+    <string name="a11y_fatrn">Trans Fat <xliff:g id="condition">%1$.1f</xliff:g><xliff:g id="condition2">%2$s</xliff:g></string>
+    <string name="a11y_chole">Cholesterol <xliff:g id="condition">%1$.1f</xliff:g><xliff:g id="condition2">%2$s</xliff:g></string>
+
+    <string name="fat_kcal">FAT_KCAL</string>
+    <string name="k">K</string>
+    <string name="fasat">FASAT</string>
+    <string name="fe">FE</string>
+    <string name="sugar">SUGAR</string>
+    <string name="fibtg">FIBTG</string>
+    <string name="procnt">PROCNT</string>
+    <string name="chocdf">CHOCDF</string>
+    <string name="ca">CA</string>
+    <string name="vita_iu">VITA_IU</string>
+    <string name="enerc_kcal">ENERC_KCAL</string>
+    <string name="vitc">VITC</string>
+    <string name="fat">FAT</string>
+    <string name="na">NA</string>
+    <string name="fatrn">FATRN</string>
+    <string name="chole">CHOLE</string>
+    <string name="empty_nutrition_list">No nutrition available at the moment...</string>
+    <string name="nutrition_attribute_separator">\@@</string>
+    <string name="nutrition_value_unit_separator"><![CDATA[&&]]></string>
+    <string name="nutrition_separator">%%</string>
+    <string name="nutrition_reference">* Reference Values for Nutrition Labeling, Based on a 2,000 Calorie Intake, for Adults and Children 4 or More years of Age</string>
+    <string name="empty_direction">Sorry, no recipe direction found...</string>
+    <string name="empty_favorite_list">No Favorite Recipes...</string>
+    <string name="title_widget_favorite">Favorite Recipe</string>
+    <string name="empty_food_list_no_network">No recipe information available. The network is not available to fetch recipe data.</string>
+    <string name="empty_food_list_server_down">The server is down...</string>
+    <string name="empty_food_invaid">No recipe found in the database</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="app_invite">app invite</string>
+    <string name="invitation_message">I invite you to use my app</string>
+    <string name="invitation_cta">invitation</string>
+</resources>

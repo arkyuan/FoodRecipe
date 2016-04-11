@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF80AB</color>
+
+    <!-- the activated state color -->
+    <color name="activated">#E0E0E0</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="ltgray">#ffe0e0e0</color>
+
+    <color name="tabsScrollColor">#8a140e</color>
+</resources>
